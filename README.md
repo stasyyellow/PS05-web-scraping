@@ -1,5 +1,6 @@
 # PS05-web-scraping
  scrapy
+Web-scraping | scrapy | spider | divan.ru | iteration
 
 
 
